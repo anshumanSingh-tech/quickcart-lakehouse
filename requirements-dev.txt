@@ -1,3 +1,2 @@
-rary.
 pytest>=8.0
 ruff>=0.5
